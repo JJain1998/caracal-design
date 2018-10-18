@@ -12,6 +12,7 @@
 		<h3>This site will be viewed by other developers as well as clients searching for professional full-stack development services.</h3>
 		<h1>Goal</h1>
 		<h3>To serve as a gallery of my work in order to attract freelance clients, or full-time employment.</h3>
+		<hr>
 		<h1>Persona</h1>
 		<p>
 			<ul>
