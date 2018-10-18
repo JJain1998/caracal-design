@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Caracal Design</title>
+		<link rel="icon" href="./caracal.png">
 	</head>
 	<body>
 		<h1>Purpose</h1>
