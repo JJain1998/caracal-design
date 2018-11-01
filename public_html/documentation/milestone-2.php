@@ -28,9 +28,9 @@
 		<p>
 			<h2>WireFrames: </h2>
 		<h3>Mobile site:</h3>
-		<img src="" alt="">
+		<img src="./mobile-wireframe.png" alt="This is the mobile look of my site.">
 		<h3>Desktop site: </h3>
-		<img src="" alt="">
+		<img src="./desktop-wireframe.png" alt="This is the look of my site on desktop">
 		</p>
 	</body>
 </html>
