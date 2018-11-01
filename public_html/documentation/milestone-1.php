@@ -62,5 +62,7 @@
 			<li>Bertram's info is sent directly to me notifying my of his desire to hire a developer.</li>
 		</ul>
 		</p>
+		<hr>
+		<h2><a href="milestone-2.php">Next Milestone</a></h2>
 	</body>
 </html>

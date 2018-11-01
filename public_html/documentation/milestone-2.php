@@ -32,5 +32,7 @@
 		<h3>Desktop site: </h3>
 		<img src="./desktop-wireframe.png" alt="This is the look of my site on desktop">
 		</p>
+		<hr>
+		<h2><a href="milestone-1.php">Previous Milestone</a><a href="">Next Milestone</a></h2>
 	</body>
 </html>
