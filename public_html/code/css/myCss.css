@@ -1,3 +1,39 @@
-.color {
-	
+.colorBlueGray {
+	background-color: #497F73;
+}
+
+.textColorBlueGray {
+	color: #497F73;
+}
+
+.colorOffWhite {
+	background-color: #DEFFF8;
+}
+
+.textColorOffWhite {
+	color: #DEFFF8;
+}
+
+.colorLightTeal {
+	background-color: #92FFE7;
+}
+
+.textColorLightTeal {
+	color: #92FFE7;
+}
+
+.colorGray{
+	background-color: #6F7F7C;
+}
+
+.textColorGray{
+	color: #6F7F7C;
+}
+
+.colorTeal {
+	background-color: #74CCB9;
+}
+
+.textColorTeal {
+	color: #74CCB9;
 }
