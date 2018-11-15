@@ -1,3 +1,12 @@
+/*
+Monochromatic color scheme values
+#20B2AA - light sea green -- color the scheme is built from
+#7AFFF8
+#2EFFF4
+#3D7F7C
+#25CCC3
+ */
+
 .navbar-light {
-	background-color: lightcoral;
+	background-color: #3D7f7c;
 }
