@@ -22,5 +22,11 @@ body{
 }
 
 img {
-	max-height: 4em;
+	height: 4em;
+	margin: auto;
 }
+
+#mission {
+	background-color: #7AFFF8;
+}
+
