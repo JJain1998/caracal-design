@@ -7,6 +7,10 @@ Monochromatic color scheme values
 #25CCC3
  */
 
+body{
+	font-family: "Nova Mono", monospace;
+}
+
 .navbar-light {
 	background-color: #3D7f7c;
 }
