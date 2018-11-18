@@ -20,3 +20,7 @@ body{
 	background: linear-gradient(rgba(37,204,195,0.25), rgba(32,178,170,0.45)), url("../../img/backgound-img.jpg") fixed center no-repeat;
 	background-size: cover;
 }
+
+img {
+	max-height: 4em;
+}
