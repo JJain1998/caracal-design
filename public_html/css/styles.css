@@ -9,6 +9,7 @@ Monochromatic color scheme values
 
 body{
 	font-family: "Audiowide", cursive;
+	position: relative;
 }
 
 .navbar-light {
@@ -22,11 +23,16 @@ body{
 	margin-bottom: 0;
 }
 
-/**img {
+#CSS {
+	background-image: url("../img/css3-alt-brands.svg");
+	background-color: transparent;
+}
+
+img {
 	height: 4em;
 	margin: auto;
 	width: 4em;
-}**/
+}
 
 #mission {
 	background-color: #7AFFF8;
