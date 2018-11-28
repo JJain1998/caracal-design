@@ -11,7 +11,7 @@ ini_set('display_errors', 1);
 // require all composer dependencies
 require_once(dirname(__DIR__, 2) . "/vendor/autoload.php");
 // require mail-config.php
-require_once("mail-config.php");
+require_once("./mail-config.php");
 // verify user's reCAPTCHA input
 $recaptcha = new \ReCaptcha\ReCaptcha($secret);
 $resp = $recaptcha->verify($_POST["g-recaptcha-response"], $_SERVER["REMOTE_ADDR"]);
@@ -87,5 +87,5 @@ try {
 	// report a successful send!
 	echo "<div class=\"alert alert-success\" role=\"alert\">Email successfully sent.</div>";
 } catch(Exception $exception) {
-	echo "<div class=\"alert alert-danger\" role=\"alert\"><strong>Oh snap!</strong> Unable to send email: " . $exception->getMessage() . "</div>";
+	echo "<div class=\"alert alert-danger\" role=\"alert\"><strong>You Suck!</strong> Unable to send email: " . $exception->getMessage() . "</div>";
 }
