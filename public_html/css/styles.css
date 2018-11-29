@@ -24,11 +24,11 @@ body{
 }
 
 
-img {
+/**img {
 	height: 4em;
 	margin: auto;
 	width: 4em;
-}
+}*/
 
 #mission {
 	background-color: #7AFFF8;
