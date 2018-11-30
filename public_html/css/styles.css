@@ -23,9 +23,10 @@ body{
 	margin-bottom: 0;
 }
 
-.jumbotron{
-	background: transparent;
+.card{
+	background: #2EFFF4;
 }
+
 
 #links a{
 	color: #000000;
