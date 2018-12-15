@@ -21,3 +21,15 @@ Additional recommendations:
 - [FontAwesome](https://fontawesome.com/) is a good quality free library for including iconography.
 
 Your Milestone 2a passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are now clear to begin development on your PWP. Solid improvement on work from Milestone 1. Good job!
+
+### Final Grade
+Awesome job your PWP. Your site is polished and I can tell you spent alot of time on it. However you do have a few flaws I want to point out. First, I think it is best you remove the place holder cards you have in the project section. Second I had no idea your contact form worked because you did not have a success message on the page. 
+* Milestone 1 20% Tier I 20(0.2) = 4 
+* Milestone 2a 20% Tier II  40(0.2) = 8
+* Milestone 2b 10% Tier III 30(0.1) = 3
+* Milestone 3 50% Tier III 40(0.5) = 20
+Final 35/40 overall Tier III +
+
+
+
+
