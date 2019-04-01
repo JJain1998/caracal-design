@@ -27,6 +27,10 @@ body{
 	background: #2EFFF4;
 }
 
+.card-img-top {
+	height: 25vh;
+	background-size: contain;
+}
 
 #links a{
 	color: #000000;
